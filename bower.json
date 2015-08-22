@@ -1,12 +1,13 @@
 {
-  "name": "etlinefont-bower",
+  "name": "etlinefont-bower-fixed",
   "version": "1.0.1",
   "description": "Elegant Themes 100 Line Icons (GPL'd icon font) as a bower component",
   "homepage": "http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons",
   "license": "GPL -- http://www.gnu.org/licenses/gpl.html",
-  "repository": "git://github.com/pprince/etlinefont-bower.git",
+  "repository": "git://github.com/longle255/etlinefont-bower.git",
   "authors": [
-    "Kenny Sing"
+    "Kenny Sing",
+    "Long Le"
   ],
   "keywords": [
     "elegantthemes",
