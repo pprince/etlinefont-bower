@@ -1,0 +1,23 @@
+{
+  "name": "et-line",
+  "version": "1.0.1",
+  "description": "100 Free Line-Style Icons",
+  "main": "./style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pprince/etlinefont-bower.git"
+  },
+  "keywords": [
+    "font",
+    "et-line"
+  ],
+  "author": "kennysing",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pprince/etlinefont-bower/issues"
+  },
+  "homepage": "https://github.com/pprince/etlinefont-bower#readme"
+}
